@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NeoSeuc
+- 👋 Hi, I’m Vitalii
 - 👀 I’m interested in developing myself
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 https://www.linkedin.com/in/vitalii-bahrynets/
 
 <!---
